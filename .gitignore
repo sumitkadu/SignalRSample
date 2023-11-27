@@ -1,0 +1,5 @@
+.vs\
+\SignalRServer\bin
+\SignalRServer\obj
+\SignalRClient\bin
+\SignalRClient\obj
